@@ -1,0 +1,4 @@
+0. minimum of 3; maximum of 9
+1. Selection sort is used since it sort from the smallest number to the largest.
+2. Greet function
+3. Init, Draw, Move and Won functions
