@@ -1,3 +1,9 @@
+/***********************
+*       Solved         *
+*         by           *
+*     alanthony333     *
+***********************/
+
 /**
  * Copies a BMP piece by piece, just because.
  */
