@@ -108,7 +108,7 @@ int main(int argc, char *argv[])
             fseek(inptr, (54 + ((initialWidth * 3 + initialPadding) * i)), SEEK_SET);
 
 
-            // iterate over pixels in scanline, specificaly, the width
+            // iterate over pixels in scanline, specifically, the width
             for (int k = 0; k < initialWidth; k++)
             {
                 // temporary storage
