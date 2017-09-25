@@ -1,0 +1,42 @@
+0.  What is pneumonoultramicroscopicsilicovolcanoconiosis?
+
+        It is an obscure term ostensibly referring to a lung disease caused by silica
+        dust, sometimes cited as one of the longest words in the English language.
+
+1.  According to its man page, what does getrusage do?
+
+        It gets the resource usage.
+
+2.  Per that same man page, how many members are in a variable of type struct rusage?
+
+        It has 16 members.
+
+3.  Why do you think we pass before and after by reference (instead of by value) to
+    calculate, even though we’re not changing their contents?
+
+        Not using before and after will just make the program process slowly and lets
+        it eat lot of memory.
+
+4.  Explain as precisely as possible, in a paragraph or more, how main goes
+    about reading words from a file. In other words, convince us that you indeed
+    understand how that function’s for loop works.
+
+        Simply, the fgetc function gets the next character from the file and moves
+        forward through the file until it reaches the end of file. The retrieved
+        character then is checked if it is purely alphabetical, or an apostrophe
+        (that's not at the beginning of the word). The character then is added to the
+        array. But if the character is not alphabetical, it is ignored and move forward.
+        The word is ended by putting \0 to the array.
+
+5.  Why do you think we used fgetc to read each word’s characters one at a time rather
+    than use fscanf with a format string like "%s" to read whole words at a time? Put
+    another way, what problems might arise by relying on fscanf alone?
+
+        Using fscanf would only give rise to different problems such as scanning even
+        punctuations and adding them to the array etc.
+
+6.  Using const would prevent the data pointed to from being changed. As we are checking
+    for the spelling, we have to be as accurate as possible.
+
+        Why do you think we declared the parameters for check and load as const (which
+        means "constant")?
