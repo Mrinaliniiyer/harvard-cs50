@@ -1,8 +1,12 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
+/*
+ * vigenere.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 2 Problem Set
+ *
+ * Implements a program that encrypts messages using Vigenère’s cipher.
+ */
 
 #include <cs50.h>
 #include <stdio.h>

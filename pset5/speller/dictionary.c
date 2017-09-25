@@ -1,4 +1,4 @@
-/**
+/*
  * dictionary.c
  *
  * Anthony Catantan

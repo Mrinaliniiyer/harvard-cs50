@@ -1,4 +1,4 @@
-/**
+/*
  * speller.c 
  * 
  * Anthony Catantan

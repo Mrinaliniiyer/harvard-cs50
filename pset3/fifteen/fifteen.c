@@ -1,8 +1,12 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
+/*
+ * fifteen.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 3 Problem Set
+ *
+ * Implements the Game of Fifteen.
+ */
 
 /**
  * fifteen.c

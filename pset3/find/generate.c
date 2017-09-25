@@ -1,5 +1,9 @@
-/**
+/*
  * generate.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 3 Problem Set
  *
  * Generates pseudorandom numbers in [0,MAX), one per line.
  *

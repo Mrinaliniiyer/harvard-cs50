@@ -1,8 +1,12 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
+/*
+ * mario.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 1 Problem Set
+ *
+ * Implements a program that prints out a half-pyramid of a specified height.
+ */
 
 #include <cs50.h>
 #include <stdio.h>

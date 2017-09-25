@@ -1,11 +1,11 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
-
-/**
- * Copies a BMP piece by piece, just because.
+/*
+ * resize.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 4 Problem Set
+ *
+ * Implements a program that resizes BMPs.
  */
 
 #include <stdio.h>

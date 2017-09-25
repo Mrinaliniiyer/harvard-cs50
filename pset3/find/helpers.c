@@ -1,13 +1,11 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
-
-/**
+/*
  * helpers.c
  *
- * Helper functions for Problem Set 3.
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 3 Problem Set
+ *
+ * Implements helper functions.
  */
 
 #include <cs50.h>

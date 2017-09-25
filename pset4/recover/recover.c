@@ -1,8 +1,12 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
+/*
+ * recover.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 4 Problem Set
+ *
+ * Implements a program that recovers JPEGs from a forensic image.
+ */
 
 #include <stdio.h>
 

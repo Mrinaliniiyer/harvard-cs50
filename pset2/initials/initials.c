@@ -1,8 +1,12 @@
-/***********************
-*       Solved         *
-*         by           *
-*     alanthony333     *
-***********************/
+/*
+ * initials.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 2 Problem Set
+ *
+ * Implements a program that, given a person’s name, prints a person’s initials.
+ */
 
 #include <cs50.h>
 #include <stdio.h>

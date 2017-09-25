@@ -1,4 +1,10 @@
-/**
+/*
+ * dictionary.h 
+ * 
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 5 Problem Set
+ *
  * Declares a dictionary's functionality.
  */
 

@@ -1,4 +1,10 @@
-/**
+/*
+ * copy.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 4 Problem Set
+ *
  * Copies a BMP piece by piece, just because.
  */
 

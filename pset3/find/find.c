@@ -1,4 +1,10 @@
-/**
+/*
+ * find.c
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 3 Problem Set
+ *
  * Prompts user for as many as MAX values until EOF is reached,
  * then proceeds to search that "haystack" of values for given needle.
  *

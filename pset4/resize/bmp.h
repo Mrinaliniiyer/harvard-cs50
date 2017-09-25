@@ -1,4 +1,10 @@
-/**
+/*
+ * bmp.h
+ *
+ * Anthony Catantan
+ * Harvard Computer Science 50
+ * Week 4 Problem Set
+ *
  * BMP-related data types based on Microsoft's own.
  */
 
