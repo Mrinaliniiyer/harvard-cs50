@@ -1,3 +1,2 @@
 ## Problems:
-1. Implement a program that compares two files for similarities.
-2. Implement a website that highlights similarities across files.
+- Implement a website via which users can "buy" and "sell" stocks.
